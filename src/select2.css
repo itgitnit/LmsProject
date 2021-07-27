@@ -1,0 +1,31 @@
+.contact-form {
+  max-width: 700px;
+  margin: auto;
+  border-radius: 5px;
+  /* background: #96bb72; */
+  background: #fff;
+  padding: 20px;
+}
+input[type="text"],
+select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type="submit"] {
+  width: 100%;
+  background: linear-gradient(135deg, #71b7e6, #9b59b6);
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+input[type="submit"]:hover {
+  background: linear-gradient(-135deg, #71b7e6, #9b59b6);
+}
