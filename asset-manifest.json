@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LmsProject/static/css/main.3634600f.chunk.css",
+    "main.js": "/LmsProject/static/js/main.fe77482a.chunk.js",
+    "main.js.map": "/LmsProject/static/js/main.fe77482a.chunk.js.map",
+    "runtime-main.js": "/LmsProject/static/js/runtime-main.80954b0e.js",
+    "runtime-main.js.map": "/LmsProject/static/js/runtime-main.80954b0e.js.map",
+    "static/css/2.8885c1cd.chunk.css": "/LmsProject/static/css/2.8885c1cd.chunk.css",
+    "static/js/2.37923d62.chunk.js": "/LmsProject/static/js/2.37923d62.chunk.js",
+    "static/js/2.37923d62.chunk.js.map": "/LmsProject/static/js/2.37923d62.chunk.js.map",
+    "index.html": "/LmsProject/index.html",
+    "static/css/2.8885c1cd.chunk.css.map": "/LmsProject/static/css/2.8885c1cd.chunk.css.map",
+    "static/css/main.3634600f.chunk.css.map": "/LmsProject/static/css/main.3634600f.chunk.css.map",
+    "static/js/2.37923d62.chunk.js.LICENSE.txt": "/LmsProject/static/js/2.37923d62.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80954b0e.js",
+    "static/css/2.8885c1cd.chunk.css",
+    "static/js/2.37923d62.chunk.js",
+    "static/css/main.3634600f.chunk.css",
+    "static/js/main.fe77482a.chunk.js"
+  ]
+}
