@@ -1,6 +1,5 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import "./select3.css"
 
 const Select5 = () => {
     return (
