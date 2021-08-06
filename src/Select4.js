@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { Multiselect } from 'multiselect-react-dropdown'
 import { NavLink } from "react-router-dom";
-import "./select3.css"
 
 const Select4 = () => {
     const data2 = [
